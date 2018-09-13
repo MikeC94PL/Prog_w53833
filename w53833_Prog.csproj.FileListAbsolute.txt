@@ -1,0 +1,17 @@
+C:\Users\Michał\source\repos\w53833_Prog\w53833_Prog\bin\Debug\w53833_Prog.exe.config
+C:\Users\Michał\source\repos\w53833_Prog\w53833_Prog\bin\Debug\w53833_Prog.exe
+C:\Users\Michał\source\repos\w53833_Prog\w53833_Prog\bin\Debug\w53833_Prog.pdb
+C:\Users\Michał\source\repos\w53833_Prog\w53833_Prog\obj\Debug\w53833_Prog.csprojResolveAssemblyReference.cache
+C:\Users\Michał\source\repos\w53833_Prog\w53833_Prog\obj\Debug\MainWindow.g.cs
+C:\Users\Michał\source\repos\w53833_Prog\w53833_Prog\obj\Debug\App.g.cs
+C:\Users\Michał\source\repos\w53833_Prog\w53833_Prog\obj\Debug\w53833_Prog_MarkupCompile.cache
+C:\Users\Michał\source\repos\w53833_Prog\w53833_Prog\obj\Debug\w53833_Prog_MarkupCompile.lref
+C:\Users\Michał\source\repos\w53833_Prog\w53833_Prog\obj\Debug\MainWindow.baml
+C:\Users\Michał\source\repos\w53833_Prog\w53833_Prog\obj\Debug\w53833_Prog.g.resources
+C:\Users\Michał\source\repos\w53833_Prog\w53833_Prog\obj\Debug\w53833_Prog.Properties.Resources.resources
+C:\Users\Michał\source\repos\w53833_Prog\w53833_Prog\obj\Debug\w53833_Prog.csproj.GenerateResource.cache
+C:\Users\Michał\source\repos\w53833_Prog\w53833_Prog\obj\Debug\w53833_Prog.csproj.CoreCompileInputs.cache
+C:\Users\Michał\source\repos\w53833_Prog\w53833_Prog\obj\Debug\w53833_Prog.exe
+C:\Users\Michał\source\repos\w53833_Prog\w53833_Prog\obj\Debug\w53833_Prog.pdb
+C:\Users\Michał\source\repos\w53833_Prog\w53833_Prog\obj\Debug\Window1.g.cs
+C:\Users\Michał\source\repos\w53833_Prog\w53833_Prog\obj\Debug\Window1.baml
